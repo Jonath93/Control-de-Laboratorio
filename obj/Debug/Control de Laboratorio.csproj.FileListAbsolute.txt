@@ -1,0 +1,75 @@
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe.config
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe.config
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.pdb
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.exe
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.pdb
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Alumnos.resources
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Proyectores.resources
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Maestros.resources
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Principal.resources
+D:\Documents\Visual Studio 2013\Projects\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Prestamos.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe.config
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.exe
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.pdb
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.pdb
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Principal.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Alumnos.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Proyectores.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Maestros.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Prestamos.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe.config
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.exe
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.pdb
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.pdb
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Principal.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Alumnos.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Proyectores.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Properties.Resources.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.GenerateResource.Cache
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.exe
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.pdb
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.pdb
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csprojResolveAssemblyReference.cache
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Principal.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Alumnos.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Proyectores.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Maestros.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Prestamos.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Properties.Resources.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.GenerateResource.Cache
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Login.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.FrmPrestamosAlum.resources
+D:\Desktop\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.frmPrestamosSelec.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.FrmPrestamosAlum.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Bitacora.resources
+C:\Users\Jonathan\Documents\proyecto 2\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.ResolveComReference.cache
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe.config
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.ResolveComReference.cache
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.exe
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.pdb
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.pdb
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Bitacora.resources
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Principal.resources
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Alumnos.resources
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Frm_Proyectores.resources
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.FrmPrestamosAlum.resources
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control_de_Laboratorio.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.exe.manifest
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\bin\Debug\Control de Laboratorio.application
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.TrustInfo.xml
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.exe.manifest
+C:\Users\Jonathan\Documents\Proyecto\Control de Laboratorio\Control de Laboratorio\obj\Debug\Control de Laboratorio.application
